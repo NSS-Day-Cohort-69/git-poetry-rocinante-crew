@@ -1,5 +1,9 @@
 Roses are purple.
-Violets are orange.
-Violets are violet.
+Violets are orange
+Violets are violet
 Github is beautiful
-And so are you.
+But is it really
+We need to talk about this
+Because beauty is in the eye of the beholder
+If Github is truly beautiful to us coders
+I don't think it would be beautiful to birds
